@@ -6,7 +6,12 @@ A userscript for the Steam store. On every game page it adds a **GeForce NOW** s
 * if available, the GeForce NOW plans that include the game (*Free, Performance & Ultimate* or *Performance & Ultimate*)
 * a **Play now** button that opens the game on GeForce NOW
 
-![The GeForce NOW section below Steam Deck Compatibility](docs/screenshot.png)
+<p>
+  <img src="docs/available.png" width="425" alt="A game that is on GeForce NOW: &quot;Available&quot;, the plans that include it and a Play now button, below Steam Deck Compatibility">
+  <img src="docs/not-available.png" width="425" alt="A game that isn't on GeForce NOW: &quot;Not available&quot;, below Steam Deck Compatibility">
+</p>
+
+*Left: a game on GeForce NOW. Right: a game that isn't.*
 
 ## Install
 
@@ -56,7 +61,7 @@ The script is a single file without build step or dependencies: edit [`geforceno
 
 ## AI notice
 
-This userscript, its documentation and the screenshot were created with the help of an AI assistant (Claude by Anthropic), under the direction of and reviewed by the maintainer. Please report problems via [issues](https://github.com/lcshmn/steam-geforcenow-userscript/issues).
+This userscript and its documentation were created with the help of an AI assistant (Claude by Anthropic), under the direction of and reviewed by the maintainer. Please report problems via [issues](https://github.com/lcshmn/steam-geforcenow-userscript/issues).
 
 ## License
 
