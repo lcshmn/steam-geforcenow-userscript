@@ -7,8 +7,8 @@ A userscript for the Steam store. On every game page it adds a **GeForce NOW** s
 * a **Play now** button that opens the game on GeForce NOW
 
 <p>
-  <img src="docs/available.png" width="425" alt="A game that is on GeForce NOW: &quot;Available&quot;, the plans that include it and a Play now button, below Steam Deck Compatibility">
-  <img src="docs/not-available.png" width="425" alt="A game that isn't on GeForce NOW: &quot;Not available&quot;, below Steam Deck Compatibility">
+  <img src="docs/available.png" width="350" alt="A game that is on GeForce NOW: &quot;Available&quot;, the plans that include it and a Play now button, below Steam Deck Compatibility">
+  <img src="docs/not-available.png" width="350" alt="A game that isn't on GeForce NOW: &quot;Not available&quot;, below Steam Deck Compatibility">
 </p>
 
 *Left: a game on GeForce NOW. Right: a game that isn't.*
